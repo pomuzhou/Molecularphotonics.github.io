@@ -15,7 +15,7 @@ sections:
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **Lili Hou Research Group** has been a center of excellence for Molecular Photonics research, teaching, and practice since its founding in 2021.
   
   - block: collection
     content:
