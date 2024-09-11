@@ -24,7 +24,7 @@ sections:
         country_code: CN
       coordinates:
         latitude: '39.107345'
-        longitude: '117.171890'
+        longitude: '117.165890'
       directions: 科学图书馆316 Room 316, SCIENCE Library
       office_hours:
         - 'Workday 08:30 to 18:00'
