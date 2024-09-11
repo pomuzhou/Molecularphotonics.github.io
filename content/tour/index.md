@@ -28,7 +28,7 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: Comfortable Life 
+      - title: Comfortable Life 🌅
         content: 'Living in a beautiful city!'
         align: left
         background:
