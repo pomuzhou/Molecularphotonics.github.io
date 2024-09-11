@@ -1,9 +1,9 @@
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy Prize
-date: 2020-12-01
+title: Laboratory members arrive at Dalian University of Technology for academic visit
+date: 2024-5-21
 ---
 
-Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
+Group photo of Prof Hou Lili's group members with Prof Zhao Jianzhang's group members.
 
 <!--more-->
 
