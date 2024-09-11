@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Lili Hou
+title: Lili Hou 侯丽丽
 
 # Full Name (for SEO)
 first_name: Lili
@@ -62,7 +62,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'lilihou@tju.edu.cn'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
