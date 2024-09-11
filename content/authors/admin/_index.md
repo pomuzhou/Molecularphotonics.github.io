@@ -1,41 +1,42 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Lili Hou
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Lili
+last_name: Hou
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor in School of Precision Instruments and Optoelectronics Engineering
+
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Tianjin University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include photoresponsive molecular switches/motors, photomodulation devices and triplet-triplet annihilation(TTA) upconversion.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Photocromic
+  - Photoresponse Nanodevices
+  - Nonlinear Optics
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: PhD in Physical Chemistry
+      institution: Rijksuniversiteit Groningen
+      year: 2013
+    - course: MSc in Optics Engineering
+      institution: Tianjin University
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BSc in Optoelectronics Technology and Science
+      institution: Nankai University
+      year: 2007
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -72,6 +73,6 @@ user_groups:
   - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Professor Hou works in the Optical Engineering Department at the School of Precision Instrumentation and Optoelectronics Engineering at Tianjin University, and did her PhD in Physical Chemistry at the University of Groningen, the Netherlands. Professor Hou's research work is cross-disciplinary, covering a wide range of fields from physics and chemistry to electronics. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Professor Hou's research focuses on novel smart-responsive optoelectronic devices, and she is committed to transforming her research results into practical products, from the laboratory to applications.
