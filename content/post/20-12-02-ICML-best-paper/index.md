@@ -1,6 +1,6 @@
 ---
 title: Happy Teachers' Day!
-date: 2024-9-10
+date: 2024-09-10
 image:
   focal_point: 'top'
 ---

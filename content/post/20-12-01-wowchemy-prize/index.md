@@ -1,6 +1,6 @@
 ---
 title: Laboratory members arrive at Dalian University of Technology for academic visit
-date: 2024-5-21
+date: 2024-05-21
 ---
 
 Group photo of Prof Hou Lili's group members with Prof Zhao Jianzhang's group members.
