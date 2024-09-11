@@ -9,7 +9,7 @@ sections:
     content:
       slides:
       - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+        content: Take a look at what we are working on...
         align: center
         background:
           image:
@@ -29,7 +29,7 @@ sections:
           position: center
           color: '#555'
       - title: Comfortable Life 🌅
-        content: 'Living in a beautiful city!'
+        content: 'Live in a beautiful city!'
         align: left
         background:
           image:
