@@ -28,6 +28,11 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
+        link:
+          icon: graduation-cap
+          icon_pack: fas
+          text: Meet the Team
+          url: ../people/
       - title: Comfortable Life 🌅
         content: 'Live in a beautiful city!'
         align: left
