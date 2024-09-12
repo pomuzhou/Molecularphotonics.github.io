@@ -1,5 +1,5 @@
 ---
-title: "Efficient Visible-to-UV Photon Upconversion Systems based on CdS Nanocrystals Modified with Triplet Energy Mediators"
+title: "Efficient Visible-to-UV Photon Upconversion Systems Based on CdS Nanocrystals Modified with Triplet Energy Mediators"
 authors:
 - admin
 - Axel Olesund
