@@ -11,8 +11,7 @@ authors:
 - Xiaona Du
 - Junfeng Jiang
 - Kun Liu
-- Xiaoyan Zhang
-- Tiegen Liu
+- Xiaoyan Zhang and Tiegen Liu
 author_notes:
 - 
 - "Corresponding Author"
