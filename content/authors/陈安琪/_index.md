@@ -47,7 +47,7 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'anqichen@tju.edu.cn'
+    link: 'mailto:anqichen@tju.edu.cn'
 #  - icon: twitter
 #    icon_pack: fab
 #    link: https://twitter.com/GeorgeCushen
