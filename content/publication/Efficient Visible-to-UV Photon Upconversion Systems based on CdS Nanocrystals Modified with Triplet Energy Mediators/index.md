@@ -22,7 +22,7 @@ publishDate: "2021-08-21"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*ADVANCED FUNCTIONAL Materials*, 31, 47"
+publication: "*Advanced Functional Materials*, 31, 47"
 publication_short: "Adv. Funct. Mater."
 
 abstract: Developing high-performance visible-to-UV photon upconversion systems based on triplet–triplet annihilation photon upconversion (TTA-UC) is highly desired, as it provides a potential approach for UV light-induced photosynthesis and photocatalysis. However, the quantum yield and spectral range of visible-to-UV TTA-UC based on nanocrystals (NCs) are still far from satisfactory. Here, three different sized CdS NCs are systematically investigated with triplet energy transfer to four mediators and four annihilators, thus substantially expanding the available materials for visible-to-UV TTA-UC. By improving the quality of CdS NCs, introducing the mediator via a direct mixing fashion, and matching the energy levels, a high TTA-UC quantum yield of 10.4% (out of a 50% maximum) is achieved in one case, which represents a record performance in TTA-UC based on NCs without doping. In another case, TTA-UC photons approaching 4 eV are observed, which is on par with the highest energies observed in optimized organic systems. Importantly, the in-depth investigation reveals that the direct mixing approach to introduce the mediator is a key factor that leads to close to unity efficiencies of triplet energy transfer, which ultimately governs the performance of NC-based TTA-UC systems. These findings provide guidelines for the design of high-performance TTA-UC systems toward solar energy harvesting.

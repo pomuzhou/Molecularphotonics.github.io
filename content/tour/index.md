@@ -18,6 +18,18 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
+      - title: Research on Molecelar Photonics📌
+        content: '1. Quantum dots synthesis
+                  2. Mechanism of the energy transfer at nanometer scale
+                  3. Photoresponse Nanodevices
+        align: center
+        background:
+          image:
+            filename: Quantumdots.jpg
+            filters:
+              brightness: 0.7
+          position: right
+          color: '#666'
       - title: Relax & Learn 🌸
         content: 'Share your interests with the group and explore exciting new topics together!'
         align: left
@@ -33,7 +45,7 @@ sections:
           icon_pack: fas
           text: Meet the Team
           url: ../people/
-      - title: Comfortable Life 🌅
+      - title: Comfortable environment 🌅
         content: 'Live in a beautiful city!'
         align: left
         background:
