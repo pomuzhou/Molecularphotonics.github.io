@@ -20,9 +20,9 @@ sections:
           color: '#666'
       - title: Research on Molecelar Photonics 📌
         content: '
-         1.Quantum dots synthesis
-         2.Mechanism of the energy transfer at nanometer scale
-         3.Photoresponse Nanodevices
+         1.Quantum dots synthesis  
+         2.Mechanism of the energy transfer at nanometer scale  
+         3.Photoresponse Nanodevices  
          '
         align: center
         background:
