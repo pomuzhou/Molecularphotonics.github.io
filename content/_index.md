@@ -22,7 +22,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./research/" cta_text="Open your tour →" %}}
+        {{% cta cta_link="./research/" cta_text="See Our Researches →" %}}
     design:
       columns: '1'
 
