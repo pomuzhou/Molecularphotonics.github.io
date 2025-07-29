@@ -42,9 +42,22 @@ sections:
       order: desc
       page_type: post
     design:
-      view: showcase
+      view: citation
       columns: '1'
-  
+
+  - block: collection
+    content:
+      title: Latest Publiction
+      text: ""
+      count: 5
+      filters:
+        folders:
+          - publication
+        publication_type: 'article-journal'
+    design:
+      view: citation
+      columns: '1'
+
   - block: markdown
     content:
       title:
@@ -64,19 +77,6 @@ sections:
       spacing:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
-
-  - block: collection
-    content:
-      title: Latest Publiction
-      text: ""
-      count: 5
-      filters:
-        folders:
-          - publication
-        publication_type: 'article-journal'
-    design:
-      view: citation
-      columns: '1'
 
   # - block: markdown
   #   content:

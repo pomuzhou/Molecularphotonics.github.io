@@ -16,16 +16,16 @@ sections:
       email: lilihou@tju.edu.cn
      # phone: 888 888 88 88
       address:
-        street: 卫津路92号 92, Weijin Road
-        city: 天津 Tianjin
-        region: 南开区 Nankai District
+        street: 卫津路92号| 92, Weijin Road
+        city: 天津| Tianjin
+        region: 南开区| Nankai District
         postcode: '300072'
-        country: 中国China
+        country: 中国| China
         country_code: CN
       coordinates:
         latitude: '39.106345'
         longitude: '117.165890'
-      directions: 科学图书馆316 Room 316, SCIENCE Library
+      directions: 科学图书馆316| Room 316, SCIENCE Library
       office_hours:
         - 'Workday 08:30 to 18:00'
       #appointment_url: 'https://calendly.com'
