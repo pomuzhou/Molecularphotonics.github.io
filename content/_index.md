@@ -49,7 +49,7 @@ sections:
 
   - block: collection
     content:
-      title: Latest Publiction
+      title: Latest Publictions
       text: ""
       count: 5
       filters:
