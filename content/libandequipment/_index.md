@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Events
+title: Lib & Equipment
 
 # Listing view
 view: compact
