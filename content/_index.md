@@ -46,6 +46,8 @@ sections:
       order: desc
       page_type: post
     design:
+      background:
+       color: 'gray'
       view: citation
       columns: '1'
 
