@@ -47,7 +47,7 @@ sections:
       page_type: post
     design:
       background:
-       color: 'gray'
+       color: '#F7F7F7'
       view: citation
       columns: '1'
 
