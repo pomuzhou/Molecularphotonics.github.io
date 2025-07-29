@@ -24,6 +24,8 @@ sections:
       text: |
         {{% cta cta_link="./research/" cta_text="See Our Researches →" %}}
     design:
+      background:
+       color: 'white'
       columns: '1'
       spacing:
        padding: ['40px', '0', '1px', '0']
