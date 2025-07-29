@@ -17,7 +17,7 @@ sections:
         
         The **Molecular Photonics Research Group** has been a center of excellence for Molecular Photonics research, teaching, and practice since its founding in 2021.
         
-  - block: markdown
+  - block: compact
     content:
       title:
       subtitle:
