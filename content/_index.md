@@ -26,7 +26,7 @@ sections:
     design:
       columns: '1'
       spacing:
-       padding: ['1px', '0', '1px', '0']
+       padding: ['40px', '0', '1px', '0']
 
   - block: collection
     content:
