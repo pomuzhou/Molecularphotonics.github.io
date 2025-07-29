@@ -27,6 +27,7 @@ sections:
       columns: '1'
       spacing:
        padding: ['20px', '0', '1px', '0']
+      css_class: fullscreen
 
   - block: collection
     content:
