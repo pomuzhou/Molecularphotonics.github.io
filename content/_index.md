@@ -30,11 +30,31 @@ sections:
       spacing:
        padding: ['40px', '0', '1px', '0']
 
+  # - block: collection
+  #   content:
+  #     title: Latest News
+  #     subtitle:
+  #     text:
+  #     count: 5
+  #     filters:
+  #       author: ''
+  #       category: ''
+  #       exclude_featured: false
+  #       publication_type: ''
+  #       tag: ''
+  #     offset: 0
+  #     order: desc
+  #     page_type: news
+  #   design:
+  #     background:
+  #      color: '#F7F7F7'
+  #     view: citation
+  #     columns: '1'
+
   - block: collection
     content:
-      title: Latest News
-      subtitle:
-      text:
+      title: Latest News and Publictions
+      text: ""
       count: 5
       filters:
         author: ''
@@ -45,22 +65,13 @@ sections:
       offset: 0
       order: desc
       page_type: news
-    design:
-      background:
-       color: '#F7F7F7'
-      view: citation
-      columns: '1'
-
-  - block: collection
-    content:
-      title: Latest Publictions
-      text: ""
-      count: 5
       filters:
         folders:
           - publication
         publication_type: 'article-journal'
     design:
+      background:
+       color: '#F7F7F7'
       view: citation
       columns: '1'
 

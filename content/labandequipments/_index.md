@@ -1,5 +1,5 @@
 ---
-title: Lib & Equipment
+title: Lab & Equipments
 
 # Listing view
 view: compact
