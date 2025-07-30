@@ -60,9 +60,17 @@ sections:
       order: desc
       page_type: news
       filters:
+        author: ''
+        category: ''
+        exclude_featured: false
+        publication_type: ''
+        tag: ''
         folders:
           - publication
         publication_type: 'article-journal'
+      offset: 0
+      order: desc
+      page_type: news
     design:
       background:
        color: '#F7F7F7'
