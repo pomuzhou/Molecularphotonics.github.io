@@ -70,7 +70,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Group Leaders
+  - Group Leader
 ---
 
 Professor Hou works in the Optical Engineering Department at the School of Precision Instrumentation and Optoelectronics Engineering at Tianjin University, and did her PhD in Physical Chemistry at the University of Groningen, the Netherlands. Professor Hou's research work is cross-disciplinary, covering a wide range of fields from physics and chemistry to electronics. 
