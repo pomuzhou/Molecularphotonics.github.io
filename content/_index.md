@@ -64,9 +64,10 @@ sections:
         # tag: ''
         folders:
           - publication
-        publication_type: 'article-journal'
+        publication_type: 'publication'
         folders:
           - news
+        publication_type: 'news'
       # offset: 0
       # order: desc
       # page_type: news
