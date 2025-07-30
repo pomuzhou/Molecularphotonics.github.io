@@ -65,6 +65,8 @@ sections:
         folders:
           - publication
         publication_type: 'article-journal'
+        folders:
+          - news
       # offset: 0
       # order: desc
       # page_type: news
