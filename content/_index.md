@@ -51,17 +51,17 @@ sections:
       view: citation
       columns: '1'
       spacing:
-       padding: ['40px', '0', '0', '0']
+       padding: ['20px', '0', '0', '0']
 
   - block: collection
     content:
-      title: 
+      title: ""
       text: ""
       count: 3
       filters:
         folders:
           - publication
-        publication_type: 'publication'
+        publication_type: 'article-journal'
     design:
       background:
        color: '#F7F7F7'
