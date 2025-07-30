@@ -1,14 +1,14 @@
 ---
 # Display name
-title: ‘Anqi Chen 陈安琪’
+title: Anqi Chen 陈安琪
 
 # Full name (for SEO)
 first_name: Anqi
 last_name: Chen
 
 # Username (this should match the folder name)
-# authors:
-#   - 陈安琪
+authors:
+  - none
 
 # Is this the primary user of the site?
 superuser: false
