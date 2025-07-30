@@ -65,9 +65,9 @@ sections:
         folders:
           - publication
         publication_type: 'article-journal'
-      offset: 0
-      order: desc
-      page_type: news
+      # offset: 0
+      # order: desc
+      # page_type: news
     design:
       background:
        color: '#F7F7F7'
