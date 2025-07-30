@@ -14,12 +14,12 @@ authors:
 superuser: false
 
 # Role/position
-role: Doctoral student in School of Precision Instruments and Optoelectronics Engineering
+# role: Doctoral student in School of Precision Instruments and Optoelectronics Engineering
 
 # Organizations/Affiliations
-organizations:
-  - name: Tianjin University
-    url: ''
+# organizations:
+  # - name: Tianjin University
+  #   url: ''
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include quantum dots and smart devices.
@@ -64,7 +64,7 @@ organizations:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'anqichen@tju.edu.cn'
+# email: 'anqichen@tju.edu.cn'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
