@@ -61,7 +61,7 @@ sections:
       filters:
         folders:
           - publication
-        publication_type: 'article-journal'
+        # publication_type: 'article-journal'
     design:
       background:
        color: '#F7F7F7'
