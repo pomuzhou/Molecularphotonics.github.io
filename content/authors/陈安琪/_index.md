@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Anqi Chen 陈安琪
+title: ‘Anqi Chen 陈安琪’
 
 # Full name (for SEO)
 first_name: Anqi
