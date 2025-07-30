@@ -30,52 +30,45 @@ sections:
       spacing:
        padding: ['40px', '0', '1px', '0']
 
-  # - block: collection
-  #   content:
-  #     title: Latest News
-  #     subtitle:
-  #     text:
-  #     count: 5
-  #     filters:
-  #       author: ''
-  #       category: ''
-  #       exclude_featured: false
-  #       publication_type: ''
-  #       tag: ''
-  #     offset: 0
-  #     order: desc
-  #     page_type: news
-  #   design:
-  #     background:
-  #      color: '#F7F7F7'
-  #     view: citation
-  #     columns: '1'
-
   - block: collection
     content:
       title: Latest News and Publictions
-      text: ""
-      count: 5
+      subtitle:
+      text:
+      count: 2
       filters:
-        # author: ''
-        # category: ''
-        # exclude_featured: false
-        # publication_type: ''
-        # tag: ''
-        folders:
-          - publication
-        publication_type: 'publication'
-        folders:
-          - news
-        publication_type: 'news'
-      # offset: 0
-      # order: desc
-      # page_type: news
+        author: ''
+        category: ''
+        exclude_featured: false
+        publication_type: ''
+        tag: ''
+      offset: 0
+      order: desc
+      page_type: news
     design:
       background:
        color: '#F7F7F7'
       view: citation
       columns: '1'
+      spacing:
+       padding: ['40px', '0', '0', '0']
+
+  - block: collection
+    content:
+      title: 
+      text: ""
+      count: 3
+      filters:
+        folders:
+          - publication
+        publication_type: 'publication'
+    design:
+      background:
+       color: '#F7F7F7'
+      view: citation
+      columns: '1'
+      spacing:
+       padding: ['0', '0', '20px', '0']
 
   - block: markdown
     content:
