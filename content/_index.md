@@ -44,7 +44,7 @@ sections:
         tag: ''
       offset: 0
       order: desc
-      page_type: post
+      page_type: news
     design:
       background:
        color: '#F7F7F7'

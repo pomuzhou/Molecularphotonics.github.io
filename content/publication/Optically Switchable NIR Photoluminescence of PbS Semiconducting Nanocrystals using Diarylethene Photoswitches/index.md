@@ -1,7 +1,7 @@
 ---
 title: "Optically Switchable NIR Photoluminescence of PbS Semiconducting Nanocrystals using Diarylethene Photoswitches"
 authors:
-- admin
+- Lili Hou
 - Rasmus Ringström
 - Andrew B. Maurer
 - Maria Abrahamsson

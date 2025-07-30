@@ -1,7 +1,7 @@
 ---
 title: "Engineering Optically Switchable Transistors with Improved Performance by Controlling Interactions of Diarylethenes in Polymer Matrices"
 authors:
-- admin
+- Lili Hou
 - Tim Leydecker
 - Xiaoyan Zhang
 - Wassima Rekab

@@ -1,7 +1,7 @@
 ---
 title: "A general approach for all-visible-light switching of diarylethenes through triplet sensitization using semiconducting nanocrystals"
 authors:
-- admin
+- Lili Hou
 - Wera Larsson
 -  Stefan Hecht
 - Joakim Andréasson and Bo Albinsson

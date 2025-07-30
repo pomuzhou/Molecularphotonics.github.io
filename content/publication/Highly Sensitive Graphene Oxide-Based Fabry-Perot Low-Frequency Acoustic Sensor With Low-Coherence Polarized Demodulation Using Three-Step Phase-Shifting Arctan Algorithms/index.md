@@ -1,9 +1,9 @@
 ---
 title: "Highly Sensitive Graphene Oxide-Based Fabry-Perot Low-Frequency Acoustic Sensor With Low-Coherence Polarized Demodulation Using Three-Step Phase-Shifting Arctan Algorithms"
 authors:
-- 陈安琪
+- Anqi Chen
 - Shuang Wang
-- admin
+- Lili Hou
 - Zhiyuan Li
 - Xueping Li
 - Haokun Yang

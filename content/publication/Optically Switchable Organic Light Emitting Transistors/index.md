@@ -1,7 +1,7 @@
 ---
 title: "Optically Switchable Organic Light Emitting Transistors"
 authors:
-- admin
+- Lili Hou
 - Xiaoyan Zhang
 - Giovanni F. Cotella
 - Giuseppe Carnicella

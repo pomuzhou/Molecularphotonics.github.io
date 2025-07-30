@@ -1,7 +1,7 @@
 ---
 title: "Efficient Visible-to-UV Photon Upconversion Systems Based on CdS Nanocrystals Modified with Triplet Energy Mediators"
 authors:
-- admin
+- Lili Hou
 - Axel Olesund
 - Shameel Thurakkal
 - Xiaoyan Zhang and Bo Albinsson
