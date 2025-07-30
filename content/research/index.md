@@ -44,7 +44,7 @@ sections:
           icon: graduation-cap
           icon_pack: fas
           text: Meet the Team
-          url: ../people/
+          url: ../members/
       - title: Comfortable environment 🌅
         content: 'Live in a beautiful city!'
         align: left
