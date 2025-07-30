@@ -56,15 +56,12 @@ sections:
       title: Latest News and Publictions
       text: ""
       count: 5
-      offset: 0
-      order: desc
-      page_type: news
       filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
+        # author: ''
+        # category: ''
+        # exclude_featured: false
+        # publication_type: ''
+        # tag: ''
         folders:
           - publication
         publication_type: 'article-journal'
