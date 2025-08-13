@@ -53,6 +53,8 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
+The Agilent Cary Eclipse fluorescence spectrometer is sensitive, accurate, and flexible. Ideal for use as a routine fluorometer, the Cary Eclipse can easily be switched between fluorescence, phosphorescence, chemiluminescence, and bioluminescence measurements. Additional flexibility can be achieved through various accessories, including temperature control and solid sample handling, automatic polarizers, and a microplate reader for high sample throughput.
+
 <!-- 
 Slides can be added in a few ways:
 

@@ -53,6 +53,8 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
+The Cary 60 UV-Vis spectrophotometer has a wavelength range of 190–1100 nm that can be scanned in under three seconds. The versatile UV-Vis instrument can be fitted with long pathlength cuvettes and solid sample transmission or reflectance accessories, and is ideal for remote UV-Vis absorbance analysis, when fitted with fiber optic probes.
+
 <!-- 
 Slides can be added in a few ways:
 
