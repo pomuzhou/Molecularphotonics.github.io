@@ -1,21 +1,25 @@
 ---
-title: "Highly Sensitive Low-Frequency Acoustic Sensor Based on Functionalized Graphene Oxide"
+title: "Near-infrared light-activated Z-to-E isomerization of azobenzene via triplet sensitization from PbS quantum dots"
 authors:
-- Anqi Chen
+- Yanan Feng
+- Qingxin Luan
+- Shuai Zhang
 - Lin Xi
-- Tianyu Li
-- Xiaona Du
-- Xiaoyan Zhang
+- Shijie Zhang
+- Kezhou Chen
+- Tiegen Liu
 - Lili Hou
 author_notes:
 - 
 -
 -
 -
+-
+-
+-
 - "Corresponding Author"
-- "Corresponding Author"
-date: "2024-12-31"
-doi: "10.1002/smll.202409043"
+date: "2025-06-30"
+doi: "10.1039/D5SC03719K"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-09-01"
@@ -26,10 +30,10 @@ publishDate: "2024-09-01"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Small*, Early View"
-publication_short: "Small"
+publication: "*Chemical Science*, Advance Article"
+publication_short: "Chenm. Sci."
 
-abstract: Developing miniaturized low-frequency acoustic sensors with high sensitivity is crucial for diverse applications, including geological monitoring and aerospace exploration. However, the performance of low-frequency acoustic sensor is constrained by the limited mechanical robustness of traditional sensing films at nanoscale thickness. Here, a functionalized graphene oxide (GO)-based Fabry-Perot (FP) low-frequency sensor is proposed, with characteristics of compact size, resistance to electromagnetic interference high-sensitivity low minimum detectable pressure (MDP), and a high signal-to-noise ratio (SNR). The functionalized GO is synthesized through the reaction of GO with dodecylamine and the uniform film is prepared by a self-assembly method. This sensor exhibits a sensitivity of −91.92 dB re 1 rad/µPa at 10–200 Hz with a fluctuation of 0.4 dB, ≈5.6 times higher than that of non-functionalized GO-based sensors prepared by a direct evaporation method. The MDP of this sensor is determined to be 0.333 µPa/Hz1/2 @20 Hz with a SNR of 136.34 dB, which outperforms previously reported low-frequency sensors using conventional metals or polymers as sensing films.
+abstract: Azobenzene (Azo) photoswitches have attracted significant attention for developing smart photoresponsive materials owing to their reversible light-induced isomerization between E and Z configurations. However, it is challenging to design an Azo capable of quantitative and efficient Z → E photoisomerization under low-energy photon irradiation, particularly near-infrared (NIR) light above 800 nm. Here, we demonstrate that Z → E photoswitching of Azo can be achieved under 808 nm light irradiation when PbS quantum dots (QDs) are combined with carboxylated Azo (Azo1). The unique spin–orbit coupling of PbS QDs facilitates efficient triplet energy transfer to Z-Azo1 under NIR light irradiation, thereby facilitating Z → E photoswitching via the excited triplet surface. Importantly, the broad absorption spectrum of PbS QDs enables activation of Z → E photoisomerization using any desired wavelength across the visible and NIR spectra up to 900 nm. The photoswitching of Azo1 when combined with PbS QDs exhibits reversible photoisomerization and good fatigue resistance over alternating irradiation cycles of 365 nm and 808 nm light. Our strategy of combining Azo and QDs holds promise for advancing the development of high-performance NIR light-activated optoelectronic materials and devices.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -41,7 +45,7 @@ abstract: Developing miniaturized low-frequency acoustic sensors with high sensi
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://onlinelibrary.wiley.com/doi/abs/10.1002/smll.202409043
+url_pdf: https://pubs.rsc.org/en/content/articlehtml/2025/sc/d5sc03719k
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: ''
 url_poster: ''
