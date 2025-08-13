@@ -31,7 +31,7 @@ tags: []
 featured: false
 
 image:
-  placement: 3
+  placement: 2
   filename: cary60.jpg
   caption: 'Image credit: shot by ckz'
   focal_point: Right
