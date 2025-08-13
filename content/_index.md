@@ -32,7 +32,7 @@ sections:
 
   - block: collection
     content:
-      title: Latest News and Publictions
+      title: Latest News and Publications
       subtitle:
       text:
       count: 2
