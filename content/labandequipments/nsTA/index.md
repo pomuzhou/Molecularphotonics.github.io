@@ -1,5 +1,5 @@
 ---
-title: Nanosecond transient absorption (fsTA) spectrophotometer
+title: Nanosecond transient absorption (nsTA) spectrophotometer
 
 event: 
 event_url: 
@@ -12,7 +12,7 @@ address:
   postcode: ''
   country: 
 
-summary: Nanosecond transient absorption (fsTA) spectroscopy
+summary: Nanosecond transient absorption (nsTA) spectroscopy
 abstract: ''
 
 # Talk start and end times.
