@@ -54,4 +54,4 @@ slides:
 projects:
 ---
 
-Femtosecond laser from Light Conversion (Phoras, 1030 nm, 222 fs,100 kHz). The output from the fs laser was split into two parts. The reflected beam was used to pump the Optical Parametric Amplifier (OPA, Light Conversion, Orpheus-HP) which generates a wavelength-tunable laser pulse as pump light source, here 440 nm was generated. The transmitted beam was use to generate the white light as probe source. 
+Femtosecond laser from Light Conversion (Phoras, 1030 nm, 222 fs,100 kHz). The output from the fs laser was split into two parts. The reflected beam was used to pump the Optical Parametric Amplifier (OPA, Light Conversion, Orpheus-HP) which generates a wavelength-tunable laser pulse as pump light source. The transmitted beam was use to generate the white light as probe source. 
