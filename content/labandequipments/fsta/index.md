@@ -31,6 +31,7 @@ tags: []
 featured: false
 
 image:
+  placement: 3
   caption: 'Image credit: shot by ckz'
   focal_point: Right
 
