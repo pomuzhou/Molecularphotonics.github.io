@@ -1,5 +1,5 @@
 ---
-title: "A general approach for all-visible-light switching of diarylethenes through triplet sensitization using semiconducting nanocrystals"
+title: "An efficient all-visible light-activated photoswitch based on diarylethenes and CdS quantum dots"
 authors:
 - Kezhou Chen
 - Jiayi Liu
