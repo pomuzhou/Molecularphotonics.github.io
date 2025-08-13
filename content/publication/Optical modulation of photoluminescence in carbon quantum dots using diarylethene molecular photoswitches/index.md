@@ -1,18 +1,20 @@
 ---
-title: "Semiconductor nanocrystals-based triplet-triplet annihilation photon-upconversion: Mechanism, materials and applications"
+title: "Optical modulation of photoluminescence in carbon quantum dots using diarylethene molecular photoswitches [Invited]"
 authors:
 - Kezhou Chen
+- Xiangyu Meng
 - Qingxin Luan
-- Tiegen Liu
 - Bo Albinsson
 - Lili Hou
+- Tiegen Liu
 author_notes:
 - 
+-
 -
 - "Corresponding Author"
 - "Corresponding Author"
 - "Corresponding Author"
-date: "2024-12-24"
+date: "2025-03-10"
 doi: "10.1002/rpm.20240030"
 
 # Schedule page publish date (NOT publication's date).
@@ -24,10 +26,10 @@ publishDate: "2019-02-18"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Responsive Materials*, 3, e20240030"
-publication_short: "Respon. Mater."
+publication: "*Chinese Optics Letters*, 23, 021601"
+publication_short: "Chin. Opt. Lett."
 
-abstract: Triplet-triplet annihilation photon upconversion (TTA-UC) has emerged as a promising strategy for enhancing solar energy harvesting efficiency by converting two low-energy long-wavelength photons into a high-energy, short-wavelength photon. In recent years, semiconductor nanocrystals have gained significant attention as efficient photosensitizers for TTA-UC due to their excellent triplet energy transfer efficiency and the ability to tune their bandgap across the solar spectrum. This review focuses on the mechanism of NC-based TTA-UC, emphasizing key parameters to evaluate the performance of TTA-UC systems. The influence of various material-related factors on the overall NC-based TTA-UC performance is thoroughly discussed. Moreover, recent advances in solid-state approaches for NC-based TTA-UC are highlighted, along with an overview of the current status of applications in this field. Lastly, this review identifies the challenges and opportunities that lie ahead in the future development of NC-based TTA-UC, providing insights into the potential advancements and directions for further research.
+abstract: Modulating photoluminescent (PL) materials is crucial for applications such as super-resolution microscopy. The combination of PL materials and photoswitches can achieve this aim by utilizing isomerization of the photoswitches. Here we report an optically PL switchable system by mixing carbon quantum dots (CQDs) and diarylethene (DAE) molecular photoswitches. The PL on/off states of CQDs, switched with alternating visible and UV light, achieve a PL on/off ratio of ∼500 and stable reversibility over 20 cycles. The mechanism of our design is revealed by PL lifetime measurements, temperature-dependent PL spectroscopy, and density functional theory (DFT) calculations, confirming that efficient static quenching and the inner filter effect between CQDs and closed DAEs are the keys to achieving such outstanding performance.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -39,7 +41,7 @@ abstract: Triplet-triplet annihilation photon upconversion (TTA-UC) has emerged 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://onlinelibrary.wiley.com/doi/full/10.1002/rpm.20240030
+url_pdf: https://opg.optica.org/col/abstract.cfm?uri=col-23-2-021601
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: ''
 url_poster: ''
