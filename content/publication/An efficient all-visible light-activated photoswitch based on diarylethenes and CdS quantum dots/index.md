@@ -6,7 +6,7 @@ authors:
 - Joakim Andréasson
 - Bo Albinsson
 - Tiegen Liu 
-- and Lili Hou
+- Lili Hou
 author_notes:
 - 
 -
