@@ -31,10 +31,10 @@ tags: []
 featured: false
 
 image:
-  placement: 2
+  placement: 3
   preview_only: false
-  caption: 'Image credit: shot by ckz'
-  focal_point: Right
+  # caption: 'Image credit: shot by ckz'
+  # focal_point: Right
 
 url_code: ''
 url_pdf: ''

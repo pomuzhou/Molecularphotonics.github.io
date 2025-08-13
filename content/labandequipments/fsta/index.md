@@ -31,9 +31,9 @@ tags: []
 featured: false
 
 image:
-  placement: 2
-  caption: 'Image credit: shot by ckz'
-  focal_point: Right
+  placement: 3
+  # caption: 'Image credit: shot by ckz'
+  # focal_point: Right
 
 url_code: ''
 url_pdf: ''
