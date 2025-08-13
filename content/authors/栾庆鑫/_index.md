@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Master student in School of Precision Instruments and Optoelectronics Engineering
+role: Doctoral student in School of Precision Instruments and Optoelectronics Engineering
 
 # Organizations/Affiliations
 organizations:
