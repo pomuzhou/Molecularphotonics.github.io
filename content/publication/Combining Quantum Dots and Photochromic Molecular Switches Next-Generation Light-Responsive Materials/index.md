@@ -1,19 +1,19 @@
 ---
-title: "白色发光量子点的荧光可逆开关调控"
+title: "Combining Quantum Dots and Photochromic Molecular Switches: Next-Generation Light-Responsive Materials"
 authors:
-- 张帅
-- 郗琳
-- 栾庆鑫
-- 刘铁根
-- 侯丽丽
+- Lin Xi
+- Jiayi Liu
+- Shuai Zhang
+- Tiegen Liu
+- Lili Hou
 author_notes:
-- "Corresponding Author"
+- 
 -
 -
 -
 - "Corresponding Author"
-date: "2025-03-24"
-doi: " 10.3788/AOS250588"
+date: "2025-05-13"
+doi: " 10.1002/smtd.202500192"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-10-04"
@@ -24,10 +24,10 @@ publishDate: "2022-10-04"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*光学学报*,  45,  0926004"
-publication_short: "光学学报"
+publication: "*Small Methods*,  Early View"
+publication_short: "Small Methods"
 
-abstract: 使用二芳基乙烯（DAE）光分子开关调控白色发光量子点（WQDs）的荧光特性，通过DAE分子开关的异构，有效控制其与WQDs之间的三线态能量传递（TET），实现了宽光谱WQDs荧光的可逆开关功能。原位荧光强度测试结果显示，当使用叔丁基官能团修饰的DAE（t-DAE）进行WQDs荧光调控时，以Förster共振能量转移机制为主的过程仅能使WQDs荧光猝灭34.1%，荧光开关比为1.5。当使用羧基官能团修饰的DAE（ac-DAE）时，羧基以共价键形式连接到WQDs表面，可实现短距离的Dexter能量传递，荧光猝灭效率与开关比分别高达99.2%与125。纳秒瞬态吸收光谱测试中出现的三重态吸收特征峰，有效验证了基于Dexter能量传递的TET机制。在8个开关循环测试下，体系呈现优异的可逆性和抗疲劳性。本研究表明，利用DAE分子开关可实现对WQDs荧光开关的高效可逆光调控。
+abstract: Quantum dots (QDs), with the unique merits of narrow and tunable photoluminescence (PL) wavelength, high PL quantum yield, have gained significant interest in fields such as display, solar energy conversion, bioimaging, and encrypted quantum communication. On the other hand, photochromic molecular switches (PMS) can undergo reversible interconversion between (at least) two distinct states at the molecular scale upon light irradiation. When combining QDs and PMS, the resulting hybrid systems exhibit synergistic functionalities and light responsiveness, enabling precise and reversible modulation over PL intensity/color, energy/electron transfer, and motion with high temporal and spatial resolution in a non-invasive manner. This perspective explores the recent advancements in the combination method, light-responsive mechanism, and functions of QD-PMS hybrids. The applications of QD-PMS hybrids are also highlighted as light-responsive materials in bioimaging, information processing, sensing, optoelectrical devices, and discuss future challenges, opportunities, and directions for enhancing performance and exploring applications in next-generation light-responsive materials and smart optoelectronic devices.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -39,7 +39,7 @@ abstract: 使用二芳基乙烯（DAE）光分子开关调控白色发光量子�
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.researching.cn/ArticlePdf/m00006/2025/45/9/0926004.pdf
+url_pdf: https://onlinelibrary.wiley.com/doi/abs/10.1002/smtd.202500192
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: ''
 url_poster: ''
