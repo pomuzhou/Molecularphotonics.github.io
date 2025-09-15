@@ -12,7 +12,7 @@ address:
   postcode: ''
   country: 
 
-summary: Femtosecond transient absorption (fsTA) spectroscopy
+summary: Centrifuge
 abstract: ''
 
 # Talk start and end times.
