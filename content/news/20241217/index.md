@@ -1,5 +1,5 @@
 ---
-title: Ceyear Scholarship
+title: Award Notification
 date: 2024-12-17
 image:
   focal_point: 'top'
