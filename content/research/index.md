@@ -30,7 +30,7 @@ sections:
               brightness: 0.7
           position: right
           color: '#555'
-      - title: Relax & Learn 🌸
+      - title: Communication & Learn 🌸
         content: 'Share your interests with the group and explore exciting new topics together!'
         align: left
         background:
