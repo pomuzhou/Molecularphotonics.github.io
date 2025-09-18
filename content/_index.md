@@ -37,14 +37,16 @@ sections:
       text:
       count: 2
       filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
+        folders:
+          - news
+        # author: ''
+        # category: ''
+        # exclude_featured: false
+        # publication_type: ''
+        # tag: ''
       offset: 0
       order: desc
-      page_type: news
+      # page_type: news
     design:
       background:
        color: '#F7F7F7'
