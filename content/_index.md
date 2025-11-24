@@ -21,7 +21,8 @@ sections:
     content:
       title:
       subtitle:
-      text: |
+      button:
+       text: |
         {{% cta cta_link="./abstract/" cta_text="See Our Researches →" %}}
     design:
       background:
