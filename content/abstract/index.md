@@ -19,7 +19,7 @@ sections:
           position: right
           color: '#666'
       - title: Present Researches📌
-        content: '1. Research on Microfluidic Synthesis of Quantum Dots🧪'
+        content: '1 Research on Microfluidic Synthesis of Quantum Dots🧪'
       #   background:
       #     image:
       #       filename: coders.jpg
