@@ -21,9 +21,11 @@ sections:
     content:
       title:
       subtitle:
-      button:
-       text: |
+      text: |
         {{% cta cta_link="./abstract/" cta_text="See Our Researches →" %}}
+      button:
+        text: Download CV
+        url: uploads/resume.pdf
     design:
       background:
        color: 'white'
