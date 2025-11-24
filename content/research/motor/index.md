@@ -1,5 +1,5 @@
 ---
-title: Microfluidic synthesis of quantum dots and applications in QLED
+title: Powering Molecular Motors with Visible Light Using Quantum Dots
 
 event: 
 event_url: 
@@ -12,7 +12,7 @@ address:
   postcode: ''
   country: 
 
-summary: A series of microfluidic chips are designed with different materials and structures and constructed corresponding microfluidic systems to achieve the synthesis of high-performance quantum dots and apply them to light-emitting devices.
+summary: We control helical motion of liquid crystals with molecular motors under visible light, which further paves the way for further developments in molecular machines and smart responsive devices.
 abstract: ''
 
 # Talk start and end times.
@@ -32,7 +32,7 @@ featured: false
 
 image:
   placement: 3
-  filename: Microfluidic.jpg
+  filename: motor.jpg
   # caption: 'Image credit: shot by ckz'
   # focal_point: Right
 
@@ -55,7 +55,7 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
-Quantum dots (PQDs) possess outstanding photovoltaic properties, such as high photoluminescence quantum yield (PLQY), narrow full width at half maximum (FWHM), and a wide tuning range of emission spectra from violet light to near-infrared. These characteristics make them highly promising for applications in light-emitting diodes (LEDs), solar cells, photoelectric detection, and lasers. Over the past few decades, the main synthesis methods for quantum dots have mainly been batch reactions, which have poor mass and heat transfer efficiency and are difficult to control and monitor the nucleation dynamics of quantum dots. Microfluidic synthesis methods can precisely control the reaction process by adjusting multiple reaction conditions, which helps to control the size of quantum dots and optimize their growth process, which is crucial for adjusting their optical properties. We designed a series of microfluidic chips with different materials and structures and constructed corresponding microfluidic systems to achieve the synthesis of high-performance quantum dots and apply them to light-emitting devices.
+The mechanism of our designs rely on the unique property of QDs, which can efficiently sensitize molecular triplets. Through triplet energy transfers, the rotation of the motor can be efficiently activated using low-energy photons.  Our simple yet effective approach to activating molecular motors at any desired visible light region not only expands the capabilities of visible-light-activated molecular systems to operate in a broad wavelength range but also opens numerous opportunities toward controlling dynamic functions while circumventing competing photochemical processes. Based on the above mechanism, we further control helical motion of liquid crystals with molecular motors under visible light, which further paves the way for further developments in molecular machines and smart responsive devices.
 
 <!-- 
 Slides can be added in a few ways:

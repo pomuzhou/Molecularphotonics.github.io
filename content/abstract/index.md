@@ -18,7 +18,7 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Research on Microfluidic Synthesis of Quantum Dots 📌
+      - title: 1. Research on Microfluidic Synthesis of Quantum Dots 📌
         content: 'We designed a series of microfluidic chips with different materials and structures and constructed corresponding microfluidic systems to achieve the synthesis of high-performance quantum dots and apply them to light-emitting devices.'
         align: center
         background:
@@ -27,7 +27,17 @@ sections:
             filters:
               brightness: 0.7
           position: right
-          color: '#555'
+          color: '#474747ff'
+      - title: 2. Research on Molecular Motors  🎠
+        content: 'we achieved the control of helical motion of liquid crystals with molecular motors under visible light, which paves the way for further developments in molecular machines and smart responsive devices.'
+        align: center
+        background:
+          image:
+            filename: motor.jpg
+            filters:
+              brightness: 0.7
+          position: right
+          color: '#474747ff'
       - title: Communication & Learn 🌸
         content: 'Share your interests with the group and explore exciting new topics together!'
         align: left
