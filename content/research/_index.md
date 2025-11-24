@@ -1,5 +1,18 @@
 ---
-title: Researches
+title: 
+
+sections:
+ - block: collection
+   id: papers
+   content:
+      title: Researches
+      filters:
+        folders:
+          - research
+        featured_only: true
+   design:
+      view: article-grid
+      columns: 2
 
 # Listing view
 view: collection
