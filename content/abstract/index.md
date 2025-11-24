@@ -22,7 +22,7 @@ sections:
         content: ' 1. Research on Microfluidic Synthesis of Quantum Dots🧪'
         content: ' 2. Research on Molecular Motors🎠'
         content: ' 3. Research on Photoswitches📴'
-        content: ' 4. Research on Triplet-Triplet Annihilation Upconversion⬆️ 
+        content: ' 4. Research on Triplet-Triplet Annihilation Upconversion⬆️ '
         content: ' 5. Research on Photo-responsive Semiconductor Micro-nano Laser🔦'
         color: '#ffffffff'
         align: center
