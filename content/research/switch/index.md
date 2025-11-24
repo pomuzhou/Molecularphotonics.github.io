@@ -12,7 +12,7 @@ address:
   postcode: ''
   country: 
 
-summary: we have constructed a series of all-visible-light-driven quantum dot-photoswitch systems and demonstrated an ultrafast intermolecular triplet energy transfer (TET) process occurring on the picosecond timescale.
+summary: We have constructed a series of all-visible-light-driven quantum dot-photoswitch systems and demonstrated an ultrafast intermolecular triplet energy transfer (TET) process occurring on the picosecond timescale.
 abstract: ''
 
 # Talk start and end times.
