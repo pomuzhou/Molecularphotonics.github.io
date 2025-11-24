@@ -19,11 +19,11 @@ sections:
           position: right
           color: '#666'
       - title: Present Researches📌
-        content: '**Research on** Microfluidic Synthesis of Quantum Dots🧪;
-                  **Research on** Molecular Motors🎠;
-                  **Research on** Photoswitches📴;
-                  **Research on** Triplet-Triplet Annihilation Upconversion⬆️;
-                  **Research on** Photo-responsive Semiconductor Micro-nano Laser🔦'
+        content: '>**Research on** Microfluidic Synthesis of Quantum Dots🧪;
+                  >**Research on** Molecular Motors🎠;
+                  >**Research on** Photoswitches📴;
+                  >**Research on** Triplet-Triplet Annihilation Upconversion⬆️;
+                  >**Research on** Photo-responsive Semiconductor Micro-nano Laser🔦'
         align: left
         background:
           image:
@@ -33,7 +33,7 @@ sections:
           position: right
           color: '#ffffffff'
         link:
-          icon: graduation-cap
+          icon: envelope-open
           icon_pack: fas
           text: See details
           url: ../research/
@@ -83,7 +83,7 @@ sections:
           position: center
           color: '#333'
         link:
-          icon: graduation-cap
+          icon: handshake-o
           icon_pack: fas
           text: Join Us
           url: ../contact/
