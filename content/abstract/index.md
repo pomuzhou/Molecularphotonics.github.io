@@ -19,11 +19,11 @@ sections:
           position: right
           color: '#666'
       - title:  Present Researches📌
-        content: '1. Research on Microfluidic Synthesis of Quantum Dots🧪
-                  2. Research on Molecular Motors🎠
-                  3. Research on Photoswitches📴
-                  4. Research on Triplet-Triplet Annihilation Upconversion⬆️
-                  5. Research on Photo-responsive Semiconductor Micro-nano Laser🔦'
+        content: ' 1. Research on Microfluidic Synthesis of Quantum Dots🧪
+                   2. Research on Molecular Motors🎠
+                   3. Research on Photoswitches📴
+                   4. Research on Triplet-Triplet Annihilation Upconversion⬆️
+                   5. Research on Photo-responsive Semiconductor Micro-nano Laser🔦'
         align: center
         background:
           image:
@@ -31,7 +31,7 @@ sections:
             filters:
               brightness: 0.7
           position: right
-          color: '#474747ff'
+          color: '#ffffffff'
         link:
           icon: graduation-cap
           icon_pack: fas
