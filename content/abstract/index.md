@@ -37,7 +37,7 @@ sections:
       #   content: ' 3. Research on Photoswitches📴'
       #   content: ' 4. Research on Triplet-Triplet Annihilation Upconversion⬆️ '
       #   content: ' 5. Research on Photo-responsive Semiconductor Micro-nano Laser🔦'
-      #   align: center
+        align: center
         background:
           image:
             filename: Quantumdots.jpg
