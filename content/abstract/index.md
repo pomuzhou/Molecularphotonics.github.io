@@ -19,12 +19,12 @@ sections:
           position: right
           color: '#666'
       - title: Present Researches📌
-        content: 'Research on Microfluidic Synthesis of Quantum Dots🧪
-                  Research on Molecular Motors🎠                      
-                  Research on Photoswitches📴                         
-                  Research on Triplet-Triplet Annihilation Upconversion⬆️
-                  Research on Photo-responsive Semiconductor Micro-nano Laser🔦'
-        align: center
+        content: '1 Research on Microfluidic Synthesis of Quantum Dots🧪;
+                  2 Research on Molecular Motors🎠;
+                  3 Research on Photoswitches📴;
+                  4 Research on Triplet-Triplet Annihilation Upconversion⬆️;
+                  5 Research on Photo-responsive Semiconductor Micro-nano Laser🔦'
+        align: left
         background:
           image:
             filename: Quantumdots.jpg
