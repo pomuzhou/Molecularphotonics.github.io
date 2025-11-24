@@ -83,7 +83,7 @@ sections:
           position: center
           color: '#333'
         link:
-          icon: handshake-o
+          icon: handshake
           icon_pack: fas
           text: Join Us
           url: ../contact/
