@@ -2,7 +2,7 @@
 title: Researches
 
 # Listing view
-view: collection
+view: showcase
 
 # Optional header image (relative to `assets/media/` folder).
 banner:
