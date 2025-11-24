@@ -3,7 +3,6 @@ title:
 
 sections:
  - block: collection
-   id: papers
    content:
       title: Researches
       filters:
@@ -15,10 +14,10 @@ sections:
       columns: 2
 
 # Listing view
-view: collection
+# view: collection
 
 # Optional header image (relative to `assets/media/` folder).
-banner:
-  caption: ''
-  image: ''
----
+# banner:
+#   caption: ''
+#   image: ''
+# ---
