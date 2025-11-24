@@ -15,12 +15,7 @@ sections:
       text: |
         <br>
         
-        The **Molecular Photonics Research Group** has been a center of excellence for Molecular Photonics research, teaching, and practice since its founding in 2021.
-  - block: resume-biography-3
-    content:
-      button:
-        text: Research
-        url: ./abstract/        
+        The **Molecular Photonics Research Group** has been a center of excellence for Molecular Photonics research, teaching, and practice since its founding in 2021.     
   - block: markdown
     content:
       title:
