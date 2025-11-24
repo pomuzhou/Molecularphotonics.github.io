@@ -11,7 +11,7 @@ sections:
         Molecular Photonics
         Research Group
       image:
-        filename: welcome.jpg
+        filename: group10.jpg
       text: |
         <br>
         
