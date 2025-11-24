@@ -9,7 +9,7 @@ sections:
     content:
       slides:
       - title: 👋 Welcome to the group
-        content: Take a look at what we are working on...
+        content: Take a look at what we are working on...🎠
         align: center
         background:
           image:
