@@ -22,7 +22,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./research/" cta_text="See Our Researches →" %}}
+        {{% cta cta_link="./abstract/" cta_text="See Our Researches →" %}}
     design:
       background:
        color: 'white'

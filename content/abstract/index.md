@@ -1,5 +1,5 @@
 ---
-title: Research
+title: Abstract
 date: 2022-10-24
 
 type: landing
@@ -18,14 +18,12 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Research on Molecelar Photonics 📌
-        content: '1.Quantum dots synthesis  
-        2.Mechanism of the energy transfer at nanometer scale  
-        3.Photoresponse Nanodevices'
+      - title: Research on Microfluidic Synthesis of Quantum Dots 📌
+        content: 'We designed a series of microfluidic chips with different materials and structures and constructed corresponding microfluidic systems to achieve the synthesis of high-performance quantum dots and apply them to light-emitting devices.'
         align: center
         background:
           image:
-            filename: Quantumdots.jpg
+            filename: Microfluidic.jpg
             filters:
               brightness: 0.7
           position: right
@@ -45,7 +43,7 @@ sections:
           icon_pack: fas
           text: Meet the Team
           url: ../members/
-      - title: Comfortable environment 🌅
+      - title: Comfortable lifestyle 🌅
         content: 'Live in a beautiful city!'
         align: left
         background:
