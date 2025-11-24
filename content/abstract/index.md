@@ -19,7 +19,11 @@ sections:
           position: right
           color: '#666'
       - title: Present Researches📌
-        content: '1 Research on Microfluidic Synthesis of Quantum Dots🧪'
+        content: 'Research on Microfluidic Synthesis of Quantum Dots🧪
+                  Research on Molecular Motors🎠
+                  Research on Photoswitches📴
+                  Research on Triplet-Triplet Annihilation Upconversion⬆️
+                  Research on Photo-responsive Semiconductor Micro-nano Laser🔦'
       #   background:
       #     image:
       #       filename: coders.jpg
