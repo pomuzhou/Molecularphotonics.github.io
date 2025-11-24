@@ -19,7 +19,7 @@ sections:
           position: right
           color: '#666'
       - title: Present Researches📌
-        content: 'Share your interests with the group and explore exciting new topics together!'
+        content: '1. Research on Microfluidic Synthesis of Quantum Dots🧪'
       #   background:
       #     image:
       #       filename: coders.jpg
