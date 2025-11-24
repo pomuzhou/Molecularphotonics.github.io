@@ -24,6 +24,7 @@ sections:
                    3. Research on Photoswitches📴
                    4. Research on Triplet-Triplet Annihilation Upconversion⬆️
                    5. Research on Photo-responsive Semiconductor Micro-nano Laser🔦'
+        color: '#ffffffff'
         align: center
         background:
           image:
